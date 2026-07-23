@@ -1,8 +1,8 @@
 # Davi — Privacy Policy
 
-**Effective date: [Effective date]**
+**Effective date: July 23, 2026**
 
-Davi ("Davi", "we", "us") helps you track environmental conditions and how you feel to find your personal triggers. This policy explains what we collect, why, and your choices. Questions: **hello@davi.app**.
+Davi ("Davi", "we", "us") helps you track environmental conditions and how you feel to find your personal triggers. This policy explains what we collect, why, and your choices. Questions: **contactdavisupport@gmail.com**.
 
 ## What we collect
 - **Account:** your email address (for sign-in) and a password, handled by our auth provider — we never see your raw password.
@@ -27,7 +27,7 @@ These providers process data on our behalf under their own terms; we don't allow
 We keep your data until you delete your account. You can delete your account and all associated data at any time from **Settings → Delete My Account**. This is immediate and permanent.
 
 ## Your rights
-Depending on where you live, you may have rights to access, correct, export or delete your data, and to withdraw consent. You can exercise most of these in the app, or contact us at hello@davi.app.
+Depending on where you live, you may have rights to access, correct, export or delete your data, and to withdraw consent. You can exercise most of these in the app, or contact us at contactdavisupport@gmail.com.
 
 ## Security
 Data is encrypted in transit, and access is restricted so that each user can only read their own records. No system is perfectly secure, but we work to protect your information.
@@ -39,4 +39,4 @@ Davi is not directed to children under 13 (or under 16 where applicable), and we
 We may update this policy; we'll revise the effective date above and, for material changes, notify you in the app.
 
 ## Contact
-[Your name / company], hello@davi.app.
+DAVI Support, contactdavisupport@gmail.com.
