@@ -1,6 +1,6 @@
 # Davi — Terms of Service
 
-**Effective date: [Effective date]**
+**Effective date: July 23, 2026**
 
 By using Davi you agree to these terms. If you don't agree, please don't use the app.
 
@@ -23,10 +23,10 @@ Davi is provided "as is" without warranties of any kind. To the fullest extent p
 You can stop using Davi and delete your account at any time. We may suspend or terminate access if you violate these terms.
 
 ## Governing law
-These terms are governed by the laws of **[your state/country]**, without regard to conflict-of-laws rules.
+These terms are governed by the laws of **the United States**, without regard to conflict-of-laws rules.
 
 ## Changes
 We may update these terms; continued use after changes means you accept them.
 
 ## Contact
-[Your name / company], hello@davi.app.
+DAVI Support, contactdavisupport@gmail.com.
