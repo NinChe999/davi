@@ -27,7 +27,7 @@ These providers process data on our behalf under their own terms; we don't allow
 We keep your data until you delete your account. You can delete your account and all associated data at any time from **Settings → Delete My Account**. This is immediate and permanent.
 
 ## Your rights
-Depending on where you live, you may have rights to access, correct, export or delete your data, and to withdraw consent. You can exercise most of these in the app, or contact us at contactdavisupport@gmail.com.
+Depending on where you live, you may have rights to access, correct, export or delete your data, and to withdraw consent. You can exercise most of these in the app, or contact us at support@daviallergyapp.com.
 
 ## Security
 Data is encrypted in transit, and access is restricted so that each user can only read their own records. No system is perfectly secure, but we work to protect your information.
@@ -39,4 +39,4 @@ Davi is not directed to children under 13 (or under 16 where applicable), and we
 We may update this policy; we'll revise the effective date above and, for material changes, notify you in the app.
 
 ## Contact
-DAVI Support, contactdavisupport@gmail.com.
+DAVI Support, support@daviallergyapp.com.
