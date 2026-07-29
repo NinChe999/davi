@@ -29,4 +29,4 @@ These terms are governed by the laws of **the United States**, without regard to
 We may update these terms; continued use after changes means you accept them.
 
 ## Contact
-DAVI Support, contactdavisupport@gmail.com.
+DAVI Support, support@daviallergyapp.com.
