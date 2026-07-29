@@ -2,7 +2,7 @@
 
 **Effective date: July 23, 2026**
 
-Davi ("Davi", "we", "us") helps you track environmental conditions and how you feel to find your personal triggers. This policy explains what we collect, why, and your choices. Questions: **contactdavisupport@gmail.com**.
+Davi ("Davi", "we", "us") helps you track environmental conditions and how you feel to find your personal triggers. This policy explains what we collect, why, and your choices. Questions: **support@daviallergyapp.com**.
 
 ## What we collect
 - **Account:** your email address (for sign-in) and a password, handled by our auth provider — we never see your raw password.
