@@ -7,4 +7,4 @@ the app and sign in.
 
 ---
 
-Questions? We're at **contactdavisupport@gmail.com**.
+Questions? We're at **support@daviallergyapp.com**.
